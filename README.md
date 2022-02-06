@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219544631-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-219544631-1');
+</script>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7,IE=edge"/>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="Content-language" content="ru"/>
@@ -536,7 +545,9 @@
     </script>
     <script src="https://an.yandex.ru/system/adfox.js"></script>
     <link rel="manifest" href="/manifest.json"/>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+</head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-219544631-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -545,9 +556,7 @@
 
   gtag('config', 'UA-219544631-1');
 </script>
-
-
-</head>
+    
 <body class="theme-white">
     <script nonce="ppuPBikNVEA6VhJn4RLHyA==">
     var Mu = {
@@ -2116,16 +2125,5 @@
     </script>
     <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1296305900380994&ev=PageView&noscript=1"/>
 </body>
-    
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219544631-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-219544631-1');
-</script>
-    
 </html>
 
