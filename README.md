@@ -536,6 +536,15 @@
     </script>
     <script src="https://an.yandex.ru/system/adfox.js"></script>
     <link rel="manifest" href="/manifest.json"/>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DCKWJV22P4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DCKWJV22P4');
+</script>
 </head>
 <body class="theme-white">
     <script nonce="ppuPBikNVEA6VhJn4RLHyA==">
